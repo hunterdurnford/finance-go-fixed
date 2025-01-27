@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"strings"
 
-	finance "github.com/piquette/finance-go"
-	chart "github.com/piquette/finance-go/chart"
-	"github.com/piquette/finance-go/datetime"
-	"github.com/piquette/finance-go/form"
-	"github.com/piquette/finance-go/iter"
+	finance "github.com/hunterdurnford/finance-go-fixed"
+	chart "github.com/hunterdurnford/finance-go-fixed/chart"
+	"github.com/hunterdurnford/finance-go-fixed/datetime"
+	"github.com/hunterdurnford/finance-go-fixed/form"
+	"github.com/hunterdurnford/finance-go-fixed/iter"
 )
 
 // Client is used to invoke quote APIs.

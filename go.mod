@@ -1,4 +1,4 @@
-module github.com/piquette/finance-go
+module github.com/hunterdurnford/finance-go-fixed
 
 go 1.13
 

@@ -3,8 +3,8 @@ package future
 import (
 	"testing"
 
-	finance "github.com/piquette/finance-go"
-	tests "github.com/piquette/finance-go/testing"
+	finance "github.com/hunterdurnford/finance-go-fixed"
+	tests "github.com/hunterdurnford/finance-go-fixed/testing"
 	"github.com/stretchr/testify/assert"
 )
 

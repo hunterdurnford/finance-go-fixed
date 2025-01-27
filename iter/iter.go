@@ -1,7 +1,7 @@
 package iter
 
 import (
-	"github.com/piquette/finance-go/form"
+	"github.com/hunterdurnford/finance-go-fixed/form"
 )
 
 // Query is the function used to get a response listing.

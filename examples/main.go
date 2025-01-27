@@ -3,17 +3,17 @@ package main
 import (
 	"fmt"
 
-	"github.com/piquette/finance-go/chart"
-	"github.com/piquette/finance-go/crypto"
-	"github.com/piquette/finance-go/datetime"
-	"github.com/piquette/finance-go/equity"
-	"github.com/piquette/finance-go/etf"
-	"github.com/piquette/finance-go/forex"
-	"github.com/piquette/finance-go/future"
-	"github.com/piquette/finance-go/index"
-	"github.com/piquette/finance-go/mutualfund"
-	"github.com/piquette/finance-go/options"
-	"github.com/piquette/finance-go/quote"
+	"github.com/hunterdurnford/finance-go-fixed/chart"
+	"github.com/hunterdurnford/finance-go-fixed/crypto"
+	"github.com/hunterdurnford/finance-go-fixed/datetime"
+	"github.com/hunterdurnford/finance-go-fixed/equity"
+	"github.com/hunterdurnford/finance-go-fixed/etf"
+	"github.com/hunterdurnford/finance-go-fixed/forex"
+	"github.com/hunterdurnford/finance-go-fixed/future"
+	"github.com/hunterdurnford/finance-go-fixed/index"
+	"github.com/hunterdurnford/finance-go-fixed/mutualfund"
+	"github.com/hunterdurnford/finance-go-fixed/options"
+	"github.com/hunterdurnford/finance-go-fixed/quote"
 )
 
 // This file lists several usage examples of this library
